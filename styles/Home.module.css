@@ -1,0 +1,18 @@
+.title {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.description {
+  font-size: 15px;
+  text-align: center;
+}
+
+
+
+.navigation{
+  display:flex;
+  justify-content: space-around;
+  background-color: skyblue;
+  text-decoration: none;
+}
